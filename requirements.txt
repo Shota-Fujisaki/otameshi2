@@ -1,2 +1,2 @@
 streamlit
-speech_recognition
+speech_recognition>=24.3.1
